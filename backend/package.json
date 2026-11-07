@@ -1,0 +1,46 @@
+{
+  "name": "first-impression-ai-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "dev:worker:ingest": "tsx watch src/worker-ingest.ts",
+    "dev:worker:capability": "tsx watch src/worker-capability.ts",
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "seed:personas": "tsx scripts/seed-personas.ts",
+    "validate:schemas": "tsx scripts/validate-openai-schemas.ts",
+    "test:normalizers": "tsx src/platform/ai/validation/openai-normalizers.test.ts",
+    "smoke:linkedin-structure": "tsx scripts/smoke-linkedin-structure.ts",
+    "smoke:instagram-structure": "tsx scripts/smoke-instagram-structure.ts",
+    "smoke:rewrite": "tsx scripts/smoke-rewrite.ts",
+    "test:integration": "tsx src/integration/pipeline.integration.test.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "3.600.0",
+    "bullmq": "^5.34.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ioredis": "^5.4.2",
+    "mongodb": "^6.12.0",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.77.0",
+    "pdf-parse": "^1.1.1",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "uuid": "^11.0.5",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.10.5",
+    "@types/pdf-parse": "^1.1.4",
+    "mongodb-memory-server": "^10.1.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

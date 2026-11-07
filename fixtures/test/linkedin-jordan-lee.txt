@@ -1,0 +1,31 @@
+Jordan Lee
+Software Engineering Intern @ Northwind Labs | CS @ Northeastern
+Boston, MA · 500+ connections
+
+About
+CS junior looking for a 2026 backend internship. I like APIs, queues, and making messy student tools actually usable. Open to internships in Boston or remote.
+
+Experience
+Northwind Labs — Software Engineering Intern
+Jun 2025 – Aug 2025 · Boston, MA
+• Shipped a Node checkout webhook handler and added 14 integration tests.
+• Fixed 12 payment edge-case bugs in the billing service.
+• Wrote a runbook for local Stripe test mode that the next intern used on day one.
+
+Campus IT — Student Technician
+Sep 2024 – Present · Northeastern University
+• Imaged and reset 200+ student laptops per semester.
+• Documented Wi-Fi onboarding FAQs; ticket reopen rate dropped after the guide shipped.
+• Staffed walk-up desk 8 hours/week.
+
+Education
+Northeastern University — B.S. Computer Science (expected 2026)
+Relevant coursework: Algorithms, Databases, Networks, Software Engineering
+
+Projects
+DormSwap — marketplace for campus listings
+• Express + PostgreSQL API, React frontend, session auth.
+• 80 student users in a closed beta across two dorms.
+
+Skills
+TypeScript · Node.js · React · PostgreSQL · Redis · Git · Jest

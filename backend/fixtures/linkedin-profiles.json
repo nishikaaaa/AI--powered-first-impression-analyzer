@@ -1,0 +1,112 @@
+[
+  {
+    "id": "student_undergrad",
+    "archetype": "Student",
+    "profileText": "Maria Santos\nComputer Science Student | Seeking 2026 Internships\nBoston, MA\n\nAbout\nJunior at Northeastern studying CS. Interested in backend and mobile. Built class projects and one campus app.\n\nExperience\nCampus IT — Student Technician\nSep 2024 – Present\n• Reset laptops and imaging for 200+ student devices.\n• Documented FAQs for Wi‑Fi onboarding.\n\nEducation\nNortheastern University — B.S. Computer Science (expected 2026)\n\nSkills\nJava, Python, Git, SQL"
+  },
+  {
+    "id": "intern_cs",
+    "archetype": "Intern",
+    "profileText": "Jordan Lee\nSoftware Engineering Intern @ FinTech Co\nNew York, NY\n\nAbout\nIntern focused on learning production practices and shipping small features safely.\n\nExperience\nFinTech Co — Software Engineering Intern\nJun 2025 – Aug 2025\n• Fixed 12 payment edge-case bugs in Node services.\n• Added integration tests for checkout webhook handler.\n\nEducation\nNYU — B.S. Computer Science (2026)\n\nSkills\nTypeScript, React, PostgreSQL, Jest"
+  },
+  {
+    "id": "junior_backend",
+    "archetype": "Junior Engineer",
+    "profileText": "Sam Rivera\nSoftware Engineer | Backend\nAustin, TX\n\nAbout\nBackend engineer 1 year out of bootcamp. Like APIs, queues, and clear runbooks.\n\nExperience\nShopGrid — Software Engineer\nJan 2025 – Present\n• Maintained catalog API serving 40k daily active users.\n• Reduced p95 latency 18% by adding Redis cache to read path.\n\nEducation\nCodePath — Advanced Software Engineering\n\nSkills\nNode.js, PostgreSQL, Redis, Docker, AWS"
+  },
+  {
+    "id": "senior_platform",
+    "archetype": "Senior Engineer",
+    "profileText": "Priya Nair\nSenior Software Engineer | Platform & Reliability\nSeattle, WA\n\nAbout\nPlatform engineer with 9 years building internal developer platforms and observability.\n\nExperience\nCloudScale — Senior Software Engineer\n2020 – Present\n• Led rollout of service mesh for 180 microservices; cut cross-team incident MTTR 35%.\n• Owned golden signals dashboards used by 400 engineers.\n\nDataPipe — Software Engineer\n2016 – 2020\n• Built Kafka ingestion pipeline processing 2B events/day.\n\nEducation\nUW — B.S. Computer Engineering\n\nSkills\nGo, Kubernetes, Terraform, Prometheus, gRPC"
+  },
+  {
+    "id": "startup_founder_technical",
+    "archetype": "Startup Founder",
+    "profileText": "Alex Chen\nCo-Founder & CTO @ LaunchLoop (Seed) | Ex-Stripe\nSan Francisco, CA\n\nAbout\nTechnical co-founder. Shipped MVP in 8 weeks, closed first 20 B2B design partners.\n\nExperience\nLaunchLoop — Co-Founder & CTO\n2023 – Present\n• Built multi-tenant analytics product from zero to $1.2M ARR.\n• Hired and led team of 6 engineers through Series Seed.\n\nStripe — Staff Software Engineer\n2018 – 2023\n• Led billing reliability program for top 50 merchants.\n\nSkills\nTypeScript, PostgreSQL, AWS, Product strategy"
+  },
+  {
+    "id": "product_manager_b2b",
+    "archetype": "Product Manager",
+    "profileText": "Taylor Brooks\nSenior Product Manager | B2B SaaS\nChicago, IL\n\nAbout\nPM bridging customers, design, and engineering for workflow products.\n\nExperience\nWorkflowly — Senior Product Manager\n2021 – Present\n• Launched approvals v2; increased weekly active teams 28%.\n• Ran discovery with 35 enterprise admins; prioritized roadmap for H1.\n\nAccenture — Consultant\n2017 – 2021\n• Led process redesign for Fortune 500 client ops team.\n\nEducation\nNorthwestern — MBA\n\nSkills\nRoadmapping, SQL, Figma, Jira, Customer discovery"
+  },
+  {
+    "id": "product_designer",
+    "archetype": "Designer",
+    "profileText": "Riley Kim\nProduct Designer | Design Systems\nPortland, OR\n\nAbout\nDesigner who ships accessible UI and maintains component libraries.\n\nExperience\nNorthwind App — Product Designer\n2020 – Present\n• Redesigned onboarding; improved activation 22% in A/B test.\n• Built Figma design system adopted by 4 product squads.\n\nFreelance — UX Designer\n2018 – 2020\n• Client work for 6 early-stage startups.\n\nSkills\nFigma, Prototyping, WCAG, User research"
+  },
+  {
+    "id": "data_scientist_ml",
+    "archetype": "Data Scientist",
+    "profileText": "Dr. Omar Hassan\nData Scientist | ML for Recommendations\nToronto, ON\n\nAbout\nApplied ML for ranking and personalization. PhD in stats.\n\nExperience\nStreamBox — Senior Data Scientist\n2019 – Present\n• Improved home feed CTR 9% with two-tower retrieval model.\n• Partnered with eng to deploy real-time feature store on GCP.\n\nEducation\nUniversity of Toronto — Ph.D. Statistics\n\nSkills\nPython, PyTorch, Spark, SQL, Causal inference"
+  },
+  {
+    "id": "weak_minimal",
+    "archetype": "Weak Profile",
+    "profileText": "Chris\nProfessional\n\nAbout\nHard worker and team player.\n\nExperience\nVarious companies — Analyst\n2019 – Present\n• Did many tasks.\n• Helped team.\n\nSkills\nMicrosoft Office, Communication, Leadership"
+  },
+  {
+    "id": "excellent_staff_eng",
+    "archetype": "Excellent Profile",
+    "profileText": "Elena Volkov\nStaff Software Engineer | Distributed Systems\nLondon, UK\n\nAbout\nStaff engineer specializing in high-throughput, low-latency data platforms. I write about reliability and mentor senior ICs.\n\nExperience\nGlobalPay — Staff Software Engineer\n2021 – Present\n• Architected ledger service handling 450k TPS with five-nines availability target.\n• Drove org-wide SLO program; reduced customer-impacting incidents 40% YoY.\n• Published internal RFC process adopted by 12 teams.\n\nNeoBank — Senior Software Engineer\n2016 – 2021\n• Built event sourcing platform for core accounts.\n\nFeatured\n• Talk: 'SLOs That Engineers Trust' — PlatformConf 2024\n\nEducation\nImperial College London — MEng Computing\n\nSkills\nJava, Kafka, Cassandra, Distributed systems, Technical leadership"
+  },
+  {
+    "id": "career_changer_teacher_to_eng",
+    "archetype": "Career changer",
+    "profileText": "Pat Morgan\nSoftware Engineer | Former High School Teacher\nDenver, CO\n\nAbout\nCareer switcher via part-time bootcamp. Bring clarity and patience from teaching.\n\nExperience\nEdTools — Software Engineer\n2024 – Present\n• Shipped lesson planner API used by 3k teachers.\n\nDenver Public Schools — Teacher\n2015 – 2023\n• Taught AP Computer Science; led robotics club.\n\nSkills\nJavaScript, React, Node.js, Communication"
+  },
+  {
+    "id": "executive_vp_eng",
+    "archetype": "Executive",
+    "profileText": "Diane Wu\nVP Engineering | Scaling 50→250 Engineers\nSan Jose, CA\n\nAbout\nEngineering executive focused on org design, delivery predictability, and product partnership.\n\nExperience\nScaleUp Inc — VP Engineering\n2020 – Present\n• Grew eng org from 52 to 240; established EM ladder and hiring bar.\n• Cut release cycle from monthly to weekly for core product line.\n\nMegaCorp — Director of Engineering\n2012 – 2020\n• Owned commerce platform budget $18M.\n\nSkills\nLeadership, Org design, Strategy, Hiring"
+  },
+  {
+    "id": "freelance_fullstack",
+    "archetype": "Freelancer",
+    "profileText": "Noah Patel\nIndependent Full-Stack Developer\nRemote\n\nAbout\nFreelancer for startups needing MVP builds and integrations.\n\nExperience\nSelf-employed — Full-Stack Developer\n2022 – Present\n• Delivered 14 client projects (React, Node, Stripe).\n• Average NPS 72 from client feedback surveys.\n\nSkills\nReact, Node.js, Stripe, PostgreSQL, Client communication"
+  },
+  {
+    "id": "bootcamp_grad_first_role",
+    "archetype": "Bootcamp grad",
+    "profileText": "Aisha Johnson\nJunior Developer | Full Stack Bootcamp Graduate\nAtlanta, GA\n\nAbout\nRecent bootcamp grad seeking first full-time dev role.\n\nExperience\nCapstone — Inventory Tracker (Bootcamp)\n2025\n• Built MERN app with auth and CSV export.\n\nRetailCo — Sales Associate\n2020 – 2024\n\nSkills\nHTML, CSS, JavaScript, MongoDB, Express"
+  },
+  {
+    "id": "sales_enterprise",
+    "archetype": "Sales",
+    "profileText": "Marcus Bell\nEnterprise Account Executive | SaaS\nDallas, TX\n\nAbout\nQuota-carrying AE for mid-market HR tech.\n\nExperience\nPeopleStack — Account Executive\n2021 – Present\n• 128% of quota FY2024; $2.1M net new ARR.\n• Expanded 6 accounts from pilot to multi-year.\n\nSkills\nSalesforce, Negotiation, Discovery, HR tech"
+  },
+  {
+    "id": "marketing_growth",
+    "archetype": "Marketing",
+    "profileText": "Sophie Laurent\nGrowth Marketing Manager\nParis, France\n\nAbout\nB2C growth across paid social and lifecycle email.\n\nExperience\nFitApp — Growth Marketing Manager\n2020 – Present\n• Cut CAC 24% while scaling spend 2x in EU markets.\n• Built referral program contributing 18% of new signups.\n\nSkills\nGoogle Ads, Meta Ads, Braze, Analytics"
+  },
+  {
+    "id": "devops_sre",
+    "archetype": "DevOps",
+    "profileText": "Kenji Tanaka\nSite Reliability Engineer\nTokyo, Japan\n\nAbout\nSRE keeping payments stack reliable and cost-aware.\n\nExperience\nPayWave — SRE\n2018 – Present\n• On-call lead for tier-1 services; maintained 99.95% uptime SLA.\n• Reduced AWS spend 15% via rightsizing and spot mix.\n\nSkills\nKubernetes, Terraform, Python, Incident response, Observability"
+  },
+  {
+    "id": "new_grad_ms_ai",
+    "archetype": "New grad MS",
+    "profileText": "Lin Zhang\nML Engineer (New Grad) | M.S. Computer Science\nPittsburgh, PA\n\nAbout\nNew grad interested in NLP and evaluation pipelines.\n\nExperience\nResearch Lab — Graduate Research Assistant\n2023 – 2025\n• Published ACL workshop paper on hallucination detection metrics.\n• Built evaluation harness for 12 LLM prompts.\n\nEducation\nCMU — M.S. Computer Science\n\nSkills\nPython, PyTorch, Hugging Face, LangChain"
+  },
+  {
+    "id": "industry_switcher_finance_to_pm",
+    "archetype": "Industry switcher",
+    "profileText": "Harper Quinn\nAssociate Product Manager | Ex-Investment Banking\nNew York, NY\n\nAbout\nFormer analyst moving into product; strong on metrics and stakeholder management.\n\nExperience\nFinApp — Associate Product Manager\n2024 – Present\n• Owned KYC flow improvements; reduced drop-off 11%.\n\nGoldline Bank — Analyst\n2019 – 2023\n• Built models for consumer lending portfolio.\n\nSkills\nSQL, Excel, Product analytics, Stakeholder management"
+  },
+  {
+    "id": "overloaded_buzzwords",
+    "archetype": "Buzzword-heavy",
+    "profileText": "Jamie Fox\nVisionary Thought Leader | Synergy | Blockchain AI Cloud Ninja\nRemote\n\nAbout\nPassionate guru driving disruptive innovation and paradigm shifts 24/7.\n\nExperience\nStealth Startup — Chief Everything Officer\n2024 – Present\n• Leveraged AI blockchain synergies.\n• Thought leadership on social media.\n\nSkills\nLeadership, Innovation, Strategy, AI, Web3"
+  },
+  {
+    "id": "non_eng_manager_ic",
+    "archetype": "Engineering Manager (people)",
+    "profileText": "Vikram Singh\nEngineering Manager | 12 Direct Reports\nBengaluru, India\n\nAbout\nPeople-first EM balancing delivery, hiring, and career growth.\n\nExperience\nTechServe — Engineering Manager\n2019 – Present\n• Grew team 7→12; promoted 4 engineers in last cycle.\n• Delivered compliance migration with zero Sev-1 incidents.\n\nTechServe — Senior Software Engineer\n2014 – 2019\n• Tech lead for billing squad.\n\nSkills\nPeople management, Agile, Java, Hiring, Coaching"
+  },
+  {
+    "id": "designer_junior_sparse",
+    "archetype": "Weak Designer",
+    "profileText": "Casey\nDesigner\n\nAbout\nI like UI.\n\nExperience\nStartup — Designer\n2024 – Present\n• Made screens.\n\nSkills\nPhotoshop, Design"
+  }
+]

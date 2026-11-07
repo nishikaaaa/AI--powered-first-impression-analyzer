@@ -1,0 +1,1479 @@
+{
+  "usingStub": true,
+  "results": [
+    {
+      "fixtureId": "student_undergrad",
+      "archetype": "Student",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "intern_cs",
+      "archetype": "Intern",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "junior_backend",
+      "archetype": "Junior Engineer",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "senior_platform",
+      "archetype": "Senior Engineer",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "startup_founder_technical",
+      "archetype": "Startup Founder",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "product_manager_b2b",
+      "archetype": "Product Manager",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "product_designer",
+      "archetype": "Designer",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "data_scientist_ml",
+      "archetype": "Data Scientist",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "weak_minimal",
+      "archetype": "Weak Profile",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "excellent_staff_eng",
+      "archetype": "Excellent Profile",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "career_changer_teacher_to_eng",
+      "archetype": "Career changer",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "executive_vp_eng",
+      "archetype": "Executive",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "freelance_fullstack",
+      "archetype": "Freelancer",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "bootcamp_grad_first_role",
+      "archetype": "Bootcamp grad",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "sales_enterprise",
+      "archetype": "Sales",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "marketing_growth",
+      "archetype": "Marketing",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "devops_sre",
+      "archetype": "DevOps",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "new_grad_ms_ai",
+      "archetype": "New grad MS",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "industry_switcher_finance_to_pm",
+      "archetype": "Industry switcher",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "overloaded_buzzwords",
+      "archetype": "Buzzword-heavy",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "non_eng_manager_ic",
+      "archetype": "Engineering Manager (people)",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    },
+    {
+      "fixtureId": "designer_junior_sparse",
+      "archetype": "Weak Designer",
+      "structureValid": true,
+      "personaMeta": {
+        "recruiter": {
+          "valid": true,
+          "errors": []
+        },
+        "engineering_manager": {
+          "valid": true,
+          "errors": []
+        },
+        "founder": {
+          "valid": true,
+          "errors": []
+        },
+        "hr": {
+          "valid": true,
+          "errors": []
+        }
+      },
+      "personaDifferentiation": [
+        {
+          "a": "recruiter",
+          "b": "engineering_manager",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "recruiter",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "founder",
+          "sim": 1
+        },
+        {
+          "a": "engineering_manager",
+          "b": "hr",
+          "sim": 1
+        },
+        {
+          "a": "founder",
+          "b": "hr",
+          "sim": 1
+        }
+      ],
+      "maxImpressionSimilarity": 1,
+      "personaResumeWordMentions": 0,
+      "aggregateError": null,
+      "aggregateResumeMentions": 0,
+      "aggregateThemeHits": [],
+      "sample": {
+        "recruiter": "Comes across as a capable backend engineer with ownership signals.",
+        "em": "Comes across as a capable backend engineer with ownership signals.",
+        "founder": "Comes across as a capable backend engineer with ownership signals.",
+        "hr": "Comes across as a capable backend engineer with ownership signals.",
+        "executiveSummary": "Overall strong backend profile with clear ownership in recent role."
+      }
+    }
+  ]
+}
